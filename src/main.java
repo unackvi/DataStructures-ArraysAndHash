@@ -21,6 +21,7 @@ public class main {
 				break;
 			} else {
 				System.out.println("Alex is not a member!");
+				continue;
 			}
 		}
 		
