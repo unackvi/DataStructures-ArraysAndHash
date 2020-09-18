@@ -11,6 +11,7 @@ public class main {
 		linky.add("Alex");
 		linky.add("Jose");
 		linky.add("John");
+		linky.add("Alex2");
 		
 		System.out.println(linky.getFirst());
 		
